@@ -1,0 +1,22 @@
+body {
+    background-color: #f6f7fb;
+    font-family: 'Montserrat', sans-serif;
+}
+.main-container {
+    background-color: #fff;
+    width: 1200px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px auto;
+}
+.sidebar {
+    background-color: #1e2a3a;
+}
+.right-side {
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-bottom: 80px;
+}
+.tech-skills {
+    color: white;
+}
