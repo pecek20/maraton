@@ -62,3 +62,119 @@ body {
     font-weight: 600;
     line-height: 17px;
 }
+/* END HOMEWORK */
+
+/* right side */
+.about-me,
+.projects,
+.employment-history {
+    margin-bottom: 60px;
+}
+.right-side {
+    padding: 80px;
+    padding-right: 196px;
+}
+.socondary-header {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    color: #2a2a2a;
+    margin-bottom: 30px;
+}
+/* about-me */
+.main-header {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 45px;
+    color: #2a2a2a;
+    margin-bottom: 30px;
+}
+.about-me-job {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #2a2a2a;
+    margin-bottom: 30px;
+}
+.about-me-description {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 417px;
+}
+
+/* projects */
+.projects .socondary-header {
+    margin-bottom: 20px;
+}
+.projects-list {
+    padding: 0 0 0 18px;
+}
+.projects-list-link {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #220fdc;
+}
+.projects-list-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2a2a2a;
+}
+.projects-list-link:hover,
+.projects-list-link:focus {
+    color: #ff6b08;
+}
+/* employment */
+.employment-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2a2a2a;
+    margin-bottom: 16px;
+}
+.employment-title-span {
+    color: #ff6b08;
+}
+.employment-working-period {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #828282;
+    margin-bottom: 16px;
+}
+.employment-list {
+    padding: 0 0 0 15px;
+    margin-bottom: 30px;
+    width: 554px;
+}
+.employment-list-item {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+/* HOMEWORK */
+/* education */
+.education-place {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2A2A2A;
+    margin-bottom: 16px;
+}
+.education-period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #828282;
+    margin-bottom: 30px;
+}
+.education-span {
+    color: #ff6b08;
+}
