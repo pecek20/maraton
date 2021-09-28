@@ -9,14 +9,56 @@ body {
     flex-direction: row-reverse;
     margin: 40px auto;
 }
+/* sidebar */
 .sidebar {
+    width: 370px;
     background-color: #1e2a3a;
 }
-.right-side {
-    padding-top: 80px;
-    padding-left: 80px;
-    padding-bottom: 80px;
+.contacts,
+.tech-skills,
+.soft-skills {
+    padding: 60px 0 0 40px;
 }
-.tech-skills {
-    color: white;
+.sidebar-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.sidebar-text {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fff;
+}
+.contacts-link {
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.6);
+    margin-left: 10px;
+}
+.contacts-tel {
+    margin-bottom: 7px;
+}
+.tech-skills-item {
+    color: #ff6b08;
+    margin-bottom: 10px;
+}
+.tech-skills-text {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+}
+/* HOMEWORK */
+.soft-skills-item {
+    color: #ff6b08;
+    margin-bottom: 10px;
+}
+.soft-skills-text {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
 }
